@@ -1,51 +1,51 @@
----
-title: 'Nick Herman'
-website: http://nickherman.com
-...
+# Nick Herman — Team Lead & UI Engineer
 
-### Personal summary
+## Qualifications
 
-> Motivated and exacting Senior Web Developer and Team Leader with a wide range of experience on projects of all sizes. Proven ability to develop high-quality products in short periods of time on a variety of platforms. A broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience. A goal oriented leader adept at guiding team-members towards efficiency and over-delivery.
+Motivated and exacting Senior UI Engineer and Team Leader with a wide range of experience on projects of all sizes. Proven ability to develop high-quality products in short periods of time on a variety of platforms. A broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience. A goal oriented leader adept at guiding team-members towards efficiency and over-delivery.
 
-### Technical
+## Technical Skills
+**Primary:** HTML, CSS, Javascript  
+**Secondary:** Python, SQL
+  
+## Soft Skills
+Product Design, Software Architecture, Agile/Scrum, Project Management, Technical Writing
+  
+## Professional Experience 
 
-- Primary: HTML, CSS, Javascript, OSX, *nix
-- Secondary: Python, SQL
+### Vivial - New York, NY
+**_Director of Engineering (2016-)_**  
 
-### Soft Skills
-- Product Design, Software Architecture, Agile/Scrum, Project Management
+* Head of ongoing design & development of vivialconnect.net: a SaaS API product for sending & receiving SMS/MMS text messages
+* Responsiblities relating to Vivial Connect include: feature design, all UI coding, occasional back-end development (python), project management, quality assurance, customer service, documentation writing, reporting, and vendor relationships
+* Additional responsibilities as Director include: staffing, budgeting and inter-dept resource sharing/support
 
+**_Engineering Team Lead / Senior Front-End Engineer (2015-2016)_**  
 
-### Employment 
+* Transitioned core Pontiflex engineering team to new organization
+* Oversaw design & development of mobile app for internal sales team communication
 
-- 2017: Director of Engineering, Vivial Inc
-- 2015: Engineering Team Lead / Senior Front-End Engineer, Vivial Inc
-New York, NY
+### Pontiflex / Crossboard Mobile - Brooklyn, NY
+**VP of Development _(2012-2015)_**  
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Took over management of tech team (ops & development) from outgoing CTO
+* Worked with executive team to produce and maintain product road map, design new products and oversee implementation
+* Retained responsibilities from previous role
 
-- 2012: VP of Development, Crossboard Mobile / Pontiflex Inc
-- 2008: Senior Front-End Engineer, Crossboard Mobile / Pontiflex Inc
-Brooklyn, NY
+**_Senior Front-End Engineer (2008-2012)_**  
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Designed, architected, coded and maintained all user-facing components of AdLeads: an international web & mobile advertising platform
+* Managed a small team of designers, web developers and web developer interns
+* Handled recruiting/interviewing/evaluating for my team. Mentored junior team members
 
-- 2000: Senior Web Developer, i33 communications, LLC
+### i33 communications (2000-2008) - New York, NY
+**_2000-2008: Senior Web Developer_**  
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Primary front-end developer for large public websites such as BodumUSA.com, execu-search.com and Attendi.com, as well as large internal projects for companies like Corporate Executive Board.
 
-\newpage
+## Education 
 
-### Publications
-
-
-### Education 
-
-- BA in English with a minor in Computer Science, Tufts University, 1999
-
-### References
-
-Available on request.
+* BA in English with a minor in Computer Science, Tufts University, 1999
 
 
 
