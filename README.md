@@ -1,8 +1,8 @@
-# Nick Herman — Team Lead & UI Engineer
+# Nick Herman — Team Lead & Senior Web Engineer
 
 ## Qualifications
 
-Motivated and exacting Senior UI Engineer and Team Leader with a wide range of experience on projects of all sizes. Proven ability to develop high-quality products in short periods of time on a variety of platforms. A broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience. A goal oriented leader adept at guiding team-members towards efficiency and over-delivery.
+Motivated and exacting Senior Web Engineer and Team Leader with a wide range of experience on projects of all sizes. Proven ability to develop high-quality products in short periods of time on a variety of platforms. A broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience. A goal oriented leader adept at guiding team-members towards efficiency and over-delivery.
 
 ## Technical Skills
 **Primary:** HTML, CSS, Javascript  
@@ -29,13 +29,13 @@ Product Design, Software Architecture, Agile/Scrum, Project Management, Technica
 **VP of Development _(2012-2015)_**  
 
 * Took over management of tech team (ops & development) from outgoing CTO
-* Worked with executive team to produce and maintain product road map, design new products and oversee implementation
+* Worked with executive team to produce and maintain product road map, design new products, and oversee implementation
 * Retained responsibilities from previous role
 
 **_Senior Front-End Engineer (2008-2012)_**  
 
-* Designed, architected, coded and maintained all user-facing components of AdLeads: an international web & mobile advertising platform
-* Managed a small team of designers, web developers and web developer interns
+* Designed, architected, coded, and maintained all user-facing components of AdLeads: an international web & mobile advertising platform
+* Managed a small team of designers, web developers, and web developer interns
 * Handled recruiting/interviewing/evaluating for my team. Mentored junior team members
 
 ### i33 communications (2000-2008) - New York, NY
