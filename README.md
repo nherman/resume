@@ -9,7 +9,7 @@
 
 ## Technical Skills
 **Primary:** HTML, CSS, Javascript, Knockout.js, Bootstrap, jQuery, REST  
-**Secondary:** Python, SQL, MySQL, AWS, Flask/Jinja2, SQLAlchemy, Sphinx
+**Secondary:** Python, SQL, MySQL, AWS, Flask/Jinja2, SQLAlchemy, Sphinx, git
   
 ## Soft Skills
 Product Design, Software Architecture, Agile/Scrum, Project Management, Technical Writing, Wireframing, Image Editing
