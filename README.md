@@ -37,9 +37,9 @@ Product Design, Software Architecture, Agile/Scrum, Project Management, Technica
 
 **_Senior Front-End Engineer (2008-2012)_**  
 
-* Designed, architected, coded, and maintained all user-facing components of AdLeads: an international web and mobile advertising platform
+* Designed, coded, and maintained all user-facing components of AdLeads: an international web and mobile advertising platform
 * Managed a small team of designers, web developers, and web developer interns
-* Handled recruiting/interviewing/evaluating for my team. Mentored junior team members
+* Lead recruiting/interviewing/evaluating of UI hires. Mentored junior team members
 
 ### i33 communications (2000-2008) - New York, NY
 **_2000-2008: Senior Web Developer_**  
