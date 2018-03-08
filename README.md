@@ -1,18 +1,18 @@
-# Nick Herman — Team Lead / Senior Web Engineer
+# Nick Herman — Engineering Director / Team Lead / Senior Web Engineer
 
 ## Qualifications
 
 * Motivated and exacting Team Leader / Senior Web Engineer with a wide range of experience
+* A goal oriented leader adept at guiding team-members towards efficiency and over-delivery.
 * Proven ability to develop high-quality products in short periods of time
 * Broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience
-* A goal oriented leader adept at guiding team-members towards efficiency and over-delivery.
 
 ## Technical Skills
 **Primary:** HTML, CSS, Javascript, Knockout.js, Bootstrap, jQuery, REST  
 **Secondary:** Python, SQL, MySQL, AWS, Flask/Jinja2, SQLAlchemy, Sphinx, git
   
 ## Soft Skills
-Product Design, Software Architecture, Agile/Scrum, Project Management, Technical Writing, Wireframing, Image Editing
+Team Building/Leadership, Product Design, Software Architecture, Agile/Scrum, Project Management, Technical Writing, Wireframing
   
 ## Professional Experience 
 
