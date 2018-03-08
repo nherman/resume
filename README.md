@@ -1,4 +1,5 @@
-# Nick Herman — Engineering Director / Team Lead / Senior Web Engineer
+# Nick Herman
+### Director of Engineering / Team Lead / Senior Web Engineer
 
 ## Qualifications
 
