@@ -9,8 +9,8 @@
 * Broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience
 
 ## Technical Skills
-**Primary:** HTML, CSS, Javascript, Knockout.js, Bootstrap, jQuery, REST  
-**Secondary:** Python, SQL, MySQL, AWS, Flask/Jinja2, SQLAlchemy, Sphinx, git
+**Primary:** HTML, CSS, Javascript, Knockout.js, Bootstrap, REST  
+**Secondary:** React, Python, SQL, MySQL, AWS, Flask/Jinja2, SQLAlchemy, Sphinx, git
   
 ## Soft Skills
 Team Building/Leadership, Product Design, Software Architecture, Agile/Scrum, Project Management, Technical Writing, Wireframing
