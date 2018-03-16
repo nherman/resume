@@ -9,7 +9,7 @@
 * Broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience
 
 ## Technical Skills
-**Primary:** HTML, CSS, Javascript, Knockout.js, Bootstrap, REST  
+**Primary:** HTML, CSS, Javascript, Knockout.js, Bootstrap, jQuery, REST  
 **Secondary:** React, Python, SQL, MySQL, AWS, Flask/Jinja2, SQLAlchemy, Sphinx, git
   
 ## Soft Skills
@@ -42,8 +42,8 @@ Team Building/Leadership, Product Design, Software Architecture, Agile/Scrum, Pr
 * Managed a small team of designers, web developers, and web developer interns
 * Lead recruiting/interviewing/evaluating of UI hires. Mentored junior team members
 
-### i33 communications (2000-2008) - New York, NY
-**_2000-2008: Senior Web Developer_**  
+### i33 communications - New York, NY
+**Senior Web Developer _(2000-2008)_**  
 
 * Primary front-end developer for large public websites such as BodumUSA.com, execu-search.com and Attendi.com, as well as large internal projects for companies like Corporate Executive Board.
 
