@@ -1,4 +1,4 @@
-# Nick Herman — Director of Engineering
+# Nick Herman - Director of Engineering
 
 ## Qualifications
 
@@ -7,14 +7,15 @@
 * Proven ability to develop high-quality products in short periods of time
 * Broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience
   
+  
 ## Professional Experience 
 
 ### Vivial - New York, NY
 **_Director of Engineering (2016-)_**  
 
 * Head of ongoing design and development of vivialconnect.net: a SaaS API product for sending and receiving SMS/MMS text messages
-* Mangage a team of 6 engineers and non-technical staff. Responsible for staffing, budgeting, and inter-dept resource sharing/support
-* Responsiblities in addition to Director role include: feature design, all UI coding, occasional back-end development (Python), project management, quality assurance, customer service, documentation writing, reporting, and vendor relationships
+* Responsiblities relating to Vivial Connect include: feature design, all UI coding, occasional back-end development (Python), project management, quality assurance, customer service, documentation writing, reporting, and vendor relationships
+* Additional responsibilities as Director include: staffing, budgeting and inter-dept resource sharing/support
 
 **_Engineering Team Lead / Senior Front-End Engineer (2015-2016)_**  
 
@@ -34,8 +35,8 @@
 * Managed a small team of designers, web developers, and web developer interns
 * Lead recruiting/interviewing/evaluating of UI hires. Mentored junior team members
 
-### i33 communications (2000-2008) - New York, NY
-**_2000-2008: Senior Web Developer_**  
+### i33 communications - New York, NY
+**Senior Web Developer _(2000-2008)_**  
 
 * Primary front-end developer for large public websites such as BodumUSA.com, execu-search.com and Attendi.com, as well as large internal projects for companies like Corporate Executive Board.
 
@@ -43,8 +44,3 @@
 ## Education 
 
 * BA in English with a minor in Computer Science, Tufts University, 1999
-
-
-
-
-
