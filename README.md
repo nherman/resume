@@ -9,15 +9,15 @@
 `brew cask install mactex`
 
 
-### usage:
+### Usage:
 
-##### To generate PDFs:
+##### Generate PDFs:
 `make`
 
-##### To generate .md files:
+##### Generate .md files:
 `python build.py`
 
 All output can be found in /versions/
 
 ### Notes:
- * For privately distributed PDFs, consider manually inserting contact info in .md files before running make.
+ * For privately distributed PDFs, consider manually inserting contact info into .md files before running make.
