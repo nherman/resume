@@ -1,6 +1,8 @@
 {% include "includes/name.md" %}
 ### Director of Engineering / Team Lead / Senior Web Engineer
-
+{#
+	INSERT PRIVATE CONTACT INFO HERE
+#}
 ## Qualifications
 
 * Motivated and exacting Team Leader / Senior Web Engineer with a wide range of experience

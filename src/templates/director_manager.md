@@ -1,5 +1,7 @@
 # Nick Herman - Director of Engineering
-
+{#
+	INSERT PRIVATE CONTACT INFO HERE
+#}
 ## Qualifications
 
 * Motivated and exacting Director of Engineering with a wide range of technical experience
