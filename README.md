@@ -1,7 +1,7 @@
 # Nick Herman — Director of Engineering
 
 ## Summary
-Director of Engineering with 10+ years of experience guiding software engineering teams. Successfully lead development of multiple software products from initial design to deployment and beyond. Skills include team building/leadership, product design, and software architecture.
+Director of Engineering with 10+ years of experience managing software engineering teams. A proven leader who has developed multiple commercially successful software products through all phases from design to deployment, and beyond. Skills include team building/leadership, product design, and software architecture.
 
 
 ## Qualifications
