@@ -17,12 +17,12 @@ Director of Engineering with 10+ of experience guiding software engineering team
 ## Professional Experience 
 
 ### Vivial - New York, NY
-Vivial is a marketing technology company with over 1000 employees with a variety of product offerings. The Vivial Connect product handles millions of text messages per month for small businesses and Fortune 500 companies.
+>Vivial is a marketing technology company with over 1000 employees with a variety of product offerings. The Vivial Connect product handles millions of text messages per month for small businesses and Fortune 500 companies.
 
 **_Director of Engineering (2016-)_**  
 
-* Head of ongoing design and development of vivialconnect.net: a SaaS API product for sending and receiving SMS/MMS text messages
 * *Responsible for building Vivial Connect from the ground up starting in 2016*
+* Head of ongoing design and development of vivialconnect.net: a SaaS API product for sending and receiving SMS/MMS text messages
 * Mangage a team of 6 engineers and non-technical staff. Responsible for staffing, budgeting, and inter-dept resource sharing/support
 * Responsiblities in addition to Director role include: feature design, all UI coding, occasional back-end development (Python), project management, quality assurance, customer service, documentation writing, reporting, and vendor relationships
 
@@ -33,7 +33,7 @@ Vivial is a marketing technology company with over 1000 employees with a variety
 * Improved sales team effectiveness by providing a secure, easy-to-use, tool for distributing sales collateral
 
 ### Pontiflex / Crossboard Mobile - Brooklyn, NY
-Pontiflex was a marketing technology start-up that provided a self-serve SaaS platform for automating lead generation. Pontiflex was acquired by Vivial in 2015.
+>Pontiflex was a marketing technology start-up that provided a self-serve SaaS platform for automating lead generation. Pontiflex was acquired by Vivial in 2015.
 
 **VP of Development _(2012-2015)_**  
 
@@ -49,7 +49,7 @@ Pontiflex was a marketing technology start-up that provided a self-serve SaaS pl
 * Lead recruiting/interviewing/evaluating of UI hires. Mentored junior team members
 
 ### i33 communications (2000-2008) - New York, NY
-i33 was as a successful interactive advertising agency. i33 was acquired by 360i in 2008.
+>i33 was as a successful interactive advertising agency. i33 was acquired by 360i in 2008.
 
 **_2000-2008: Senior Web Developer_**  
 
