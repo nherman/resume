@@ -4,13 +4,14 @@
 ## Qualifications
 
 * Motivated and exacting Team Leader / Senior Web Engineer with a wide range of experience
-* A goal oriented leader adept at guiding team-members towards efficiency and over-delivery.
+* Comfortable leading full-stack engineering teams to develop frontend and backend systems
+* Goal oriented and adept at guiding team-members towards efficiency and over-delivery
 * Proven ability to develop high-quality products in short periods of time
 * Broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience
 
 ## Technical Skills
 **Primary:** HTML, CSS, Javascript, React, jQuery, REST  
-**Secondary:** React, Python, SQL, MySQL, AWS, Flask/Jinja2, SQLAlchemy, Sphinx, git
+**Secondary:** Python, SQL, MySQL, AWS, Flask/Jinja2, SQLAlchemy, Sphinx, git
   
 ## Soft Skills
 Team Building/Leadership, Product Design, Software Architecture, Agile/Scrum, Project Management, Technical Writing, Wireframing

@@ -2,8 +2,9 @@
 
 ## Qualifications
 
-* Motivated and exacting Director of Engineering with a wide range of technical experience
-* A goal oriented leader adept at guiding team-members towards efficiency and timely delivery
+* Motivated and exacting Team Leader / Senior Web Engineer with a wide range of experience
+* Comfortable leading full-stack engineering teams to develop frontend and backend systems
+* Goal oriented and adept at guiding team-members towards efficiency and over-delivery
 * Proven ability to develop high-quality products in short periods of time
 * Broad understanding of coding/design best practices and of various web technologies gained through 20+ years of experience
   
